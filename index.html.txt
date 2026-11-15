@@ -1,0 +1,56 @@
+RIVAAYAT STATE ATLAS · RESEARCH
+What do people know about regional sarees?
+A visual summary of my survey of 43 people, showing what they know, what they want to lea turn offrn, and what the Atlas should do first.
+What is this dashboard?
+What it is
+The results of my Google Forms survey (43 responses, 9 questions) turned into charts you can explore.
+Who it is for
+Me and design reviewers, to decide which features the Rivaayat State Atlas needs first.
+How to use it
+Tap a ring to open that question. Switch charts, sort, compare, hover for details, flip the cards at the bottom.
+Survey results show what people say, not what they do. 43 responses are not statistically representative, and ages were not asked.
+Explore every question
+▤ Bars
+◔ Donut
+Survey order
+High → low
+%
+Count
+
+The big picture
+From names to understanding
+Share of 43 people at each step. Tap a bar.
+
+What they want to learn
+Q5 · farther from the centre = more votes
+Would the Atlas help?
+Dark red = strongest yes, lighter = unsure or no
+
+In their own words
+Open answers (Q10) grouped by theme
+What the research says to build
+Design brief
+USER
+Me and design reviewers
+Design-literate, moderate data skills. They decide which Atlas features to build first.
+USE CASE
+Decide with evidence
+Used at a desk or in a critique to check which survey result backs each design choice.
+DASHBOARD TYPE
+Analytical
+It supports exploring and comparing answers, not live monitoring.
+INFORMATION HIERARCHY
+Headlines → questions → insights
+Key numbers first, details next, design actions last.
+SCANNING PATTERN
+F-pattern
+Title and key numbers run across the top; question chips and charts run down the left.
+GRID
+12 columns
+1200 px maximum width · 20 px margins · 16 px gutters · cards span 2, 4, 5, 6, 7 or 12 columns.
+Where the map comes from
+
+My research board
+The patchwork map of India's regional sarees that started this project. The Atlas turns it into an interactive experience, and this survey tests whether people want one.
+Tap any photo to enlarge it.
+
